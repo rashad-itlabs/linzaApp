@@ -1,0 +1,2 @@
+# linzaApp
+ios and android
